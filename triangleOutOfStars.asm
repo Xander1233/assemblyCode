@@ -1,3 +1,9 @@
+; To start:
+; nasm -felf64 triangleOutOfStars.asm && ld triangleOutOfStars.o && ./a.out
+;
+; ~ Xandrrrr
+;   Github: Xander1233
+
 global _start
 
 section .text
